@@ -60,10 +60,10 @@ return [
     'totalTime' => '總計時間',
     'linesSent' => '送出行數',
     'linesRec' => '接收行數',
-    'placedBlocks' => '放置放快',
+    'placedBlocks' => '放置方塊數',
     'maxAPM' => '最大APM',
     'maxREN' => '最高Combo',
-    'longestGame' => '最久時間',
+    'longestGame' => '最長時間',
     'totalB2B' => '總計B2B數',
     'mostSent' => '最高送出',
     'hours' => '小時',
@@ -72,7 +72,7 @@ return [
     /* Stats */
     'improvementStats' => '進步史',
     //keep ':name'
-    'improvementInfo' => '以下的圖表顯示競速時間 (縱軸) 和 遊玩日期(橫軸). 加亮處為 :name 刷新紀錄的地方. 你可將滑鼠指向該行以顯示更多資訊.',
+    'improvementInfo' => '以下的圖表顯示競速時間 (縱軸) 和 遊玩日期(橫軸). 加亮處為  :name  刷新紀錄的地方. 你可將滑鼠指向該行以顯示更多資訊.',
     'date' => '日期',
     'result' => '結果',
     'submit' => '送出',
@@ -85,7 +85,7 @@ return [
     'discussion' => '討論版',
     'learnMore' => '了解更多',
     'contact' => '聯繫',
-    'serverCoverage' => '伺服器花費涵蓋',
+    'serverCoverage' => '伺服器花費金額比例',
     'supporters' => '專案支持者',
     
     /* Other */
