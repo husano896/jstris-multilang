@@ -43,7 +43,7 @@ return [
     'noSpectators' => '現在沒有人在觀戰.',
     'replayAvailable' => '重播紀錄檔',
     'oldVer' => '你目前的版本過舊, 按F5重新整理網頁!',
-    'privateRoom' => 'This is your private room where you won\'t be disturbed while playing. Check the Lobby to see public rooms.',
+    'privateRoom' => '這是專屬你的私人房間. 按大廳以查看公開的房間.',
     'restartInfo' =>  '以F4或自訂鍵來重新開始.',
     'joinLinkInfo' => '此為私人房間. 發送給玩家以下網址以加入房間:',
 
